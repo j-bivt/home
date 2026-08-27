@@ -2,4 +2,4 @@ https://github.com/j-bivt/home/*This repository*The github link to this reposito
 https://j-bivt.github.io/SGL/*(OLD)-SGL*OLD Scratch game library
 https://j-bivt.github.io/SGL2/*(NEW)-SGL2*NEW Scratch game library
 https://j-bivt.github.io/axisOS/online%20versions/beta%20testing/*axisOS*New operating system I made.
-https://j-bivt.github.io/web-peanut/releases/v1.8%20BETA/Github%20Pages/*Command Interpreter I made
+https://j-bivt.github.io/web-peanut/releases/v1.8%20BETA/Github%20Pages/*WpV1.6*Command Interpreter I made
